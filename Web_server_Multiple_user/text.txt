@@ -1,0 +1,19 @@
+#Listening port number
+Listen Port 8888
+#Root document 
+Document Root "C:\Users\shilp\Downloads\Shilpa\www\www"
+#Default web page
+DirectoryIndex index.html customdefaultfile.html
+#content-Type
+ContentType .html text/html
+ContentType .htm text/html
+ContentType .txt text/plain
+ContentType .png image/png
+ContentType .gif image/gif
+ContentType .jpg image/jpg
+ContentType .jpeg image/jpeg
+ContentType .css text/css
+ContentType .js application/javascript
+#connection timeout
+Keepalive Time 10
+
