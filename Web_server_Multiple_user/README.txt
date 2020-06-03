@@ -6,7 +6,3 @@ How to run the code?
 4. Command used to run server code in Command Prompt: >python -m http.server <portnumber>
 5. URL used by client: http://localhost:<portnumber> and Directory is displayed to the client.
 6. File path should be mentioned correctly to get the index.html page. (If directly requesting using URL by client)
-
-
-Submitted by,
-Shilpa Joshy
